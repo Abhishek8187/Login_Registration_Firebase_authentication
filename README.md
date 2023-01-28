@@ -10,10 +10,16 @@ There is a registration screen from where new users can register themselves whos
 
 
 registered users
+
+
 ![5](https://user-images.githubusercontent.com/72517135/215285281-481ac0fc-5d83-4831-9c01-0ad190b490c0.png)
 
 user's data on firestore database
+
+
 ![6](https://user-images.githubusercontent.com/72517135/215285284-e233c163-1c07-4235-9eff-7aa1e42d17a6.png)
 
 image uploaded in firebase database
+
+
 ![7](https://user-images.githubusercontent.com/72517135/215285290-ba60d59e-96a7-45d9-a0c2-f3f5436de411.png)
