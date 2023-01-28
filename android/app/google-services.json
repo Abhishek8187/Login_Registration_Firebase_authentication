@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577178398016",
+    "project_id": "interntask-a45b9",
+    "storage_bucket": "interntask-a45b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577178398016:android:a19a78310f326d5e449ea5",
+        "android_client_info": {
+          "package_name": "com.example.intern_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577178398016-r4aq2g32l5dsm2ej8u944jpicsouv0ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WGcnIpOFY6ZbX0XuxjzLycfAnIREQQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577178398016-r4aq2g32l5dsm2ej8u944jpicsouv0ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
